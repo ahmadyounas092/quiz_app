@@ -1,0 +1,16 @@
+final List<String> categoriesNames = [
+  "Music",
+  "Geography",
+  "sciencenature",
+  "fooddrink",
+  "general",
+  "religionmythology",
+  "entertainment",
+  "artliterature",
+  "language",
+  "peopleplaces",
+  "historyholidays",
+  "mathematics",
+  "sportsleisure",
+  "toysgames",
+];
